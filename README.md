@@ -1,8 +1,8 @@
-# Hi there, I'm Mansvi Sawant 👋
+<h1 align="center">Hi there, I'm Mansvi Sawant 👋</h1>
 
-IT Engineer | Python Developer · Data Analytics · AI Applications
+<h4 align="center">IT Engineer | Python Developer · Data Analytics · AI Applications </h4>
 
-<p align="left"> <a href="mailto:mansvisaawant75@gmail.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/> </a> <a href="https://linkedin.com/in/mansvi-sawant" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/> </a> <a href="https://github.com/mansvi4506" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/> </a> </p>
+<p align="center"> <a href="mailto:mansvisaawant75@gmail.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/> </a> <a href="https://linkedin.com/in/mansvi-sawant" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/> </a> <a href="https://github.com/mansvi4506" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/> </a> </p>
 
 ---
 
