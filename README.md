@@ -2,9 +2,7 @@
 
 IT Engineer | Python Developer · Data Analytics · AI Applications
 
-[![GitHub](https://img.shields.io/badge/GitHub-mansvi4506-181717?style=flat&logo=github&logoColor=white)](https://github.com/mansvi4506)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mansvi--sawant-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mansvi-sawant)
-[![Email](https://img.shields.io/badge/Email-mansvisaawant75@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mansvisaawant75@gmail.com)
+<p align="left"> <a href="mailto:mansvisaawant75@gmail.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/> </a> <a href="https://linkedin.com/in/mansvi-sawant" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/> </a> <a href="https://github.com/mansvi4506" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/> </a> </p>
 
 ---
 
@@ -31,11 +29,11 @@ IT Engineer | Python Developer · Data Analytics · AI Applications
 
 **Backend**
 
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> </p>
 
 **Databases**
 
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=supabase" alt="supabase" width="40" height="40"/> </a> </p>
 
 **Libraries**
 
@@ -43,7 +41,7 @@ IT Engineer | Python Developer · Data Analytics · AI Applications
 
 **Cloud & Tools**
 
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/> </a> </p>
 
 ---
 
